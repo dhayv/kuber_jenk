@@ -64,5 +64,4 @@
     </form>
 </body>
 </html>
-<p>By hayvid 2024</p>
 
