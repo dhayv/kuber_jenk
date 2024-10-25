@@ -141,7 +141,7 @@
             <p class="description">Please fill in the form below to get started</p>
 
             <div class="form-group">
-                <label for="name">Full Name</label>
+                <label for="name">First Name</label>
                 <input type="text" id="name" name="name" placeholder="Enter your full name" required>
             </div>
 
