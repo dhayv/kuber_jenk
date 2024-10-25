@@ -244,12 +244,3 @@
     </script>
 </body>
 </html>
-
-eksctl create cluster --name hayvid  \
---region us-east-1 \
---node-type t2.small \
-
-example:
-eksctl create cluster --name valaxy-cluster \
-   --region ap-south-1 \
---node-type t2.small \
