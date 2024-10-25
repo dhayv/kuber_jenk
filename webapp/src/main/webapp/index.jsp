@@ -137,7 +137,7 @@
 <body>
     <div class="container">
         <form id="contactForm" onsubmit="return validateForm(event)">
-            <h1>Create Account</h1>
+            <h1>New User Create Account</h1>
             <p class="description">Please fill in the form below to get started</p>
 
             <div class="form-group">
